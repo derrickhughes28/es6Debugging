@@ -42,3 +42,12 @@ console.log(result);
 
 var sum = (x,y) => (x + y);  
 console.log(sum(x,y));
+
+var sum = (x,y) => (x - y);  
+console.log(sum(x,y));
+
+var sum = (x,y) => (x * y);  
+console.log(sum(x,y));
+
+var sum = (x,y) => (x / y);  
+console.log(sum(x,y));
